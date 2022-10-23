@@ -1,0 +1,2 @@
+testes unitários feitos com JUnit,
+testando métodos de pedidos e calculo de produtos.
